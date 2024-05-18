@@ -18,7 +18,7 @@
     </div>
 
 <?php
-    // setting the test username dynamically
+    // setting the test username dynamically for testing purpose
     $username = "Rezwan Ahamd";
     echo "<script>document.getElementById('usernamePlaceholder').textContent = '$username';</script>";
 ?>
